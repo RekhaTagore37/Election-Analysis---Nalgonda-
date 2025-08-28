@@ -1,29 +1,100 @@
-##Election-Analysis---Nalgonda-
- This project focuses on analyzing Nalgonda election data with charts, pivot tables, and dashboards to extract actionable insights on voting patterns and candidate performance
+Nalgonda Election Analysis
 
- ##Features
- Data cleaning and preperation
- Pivot tables for vote share analysis
- Visual dashboards (charts,slicers)
- Key insights on constituency level trends
+📌 Project Overview
 
- ##Files
- NALGONDA ELECTION ANALYSIS.xlsx-Main Excel ile with all analysis
+This project focuses on analyzing the Nalgonda Assembly Election results using Microsoft Excel. It highlights party-wise and candidate-wise voting patterns, calculates vote shares, and presents insights through pivot tables and an interactive dashboard.
 
- ##Tools used
- Microsoft Excel
- power query
+✅ Key Features
 
- ##License
- This project is licensed under Creative Common Zero v1.0 Universal(CCD)
+Data Source: Nalgonda Assembly Election results dataset.
 
- ##Contributors
- Rekha Tagore
+Data Processing:
 
- ##Acknowledgement
- I would like to express my gratitude to the following resources and tools that made this project possible:
- Election Commission of India (ECI) for providing official election data.
- Microsoft Excel for powerful data analysis and visualization features like Pivot Tables, Charts, and Slicers.
- Power Query for simplifying data transformation and cleaning processes.
- GitHub for hosting and version control, making this project accessible to everyone.
- Creative Commons (CC0) license for enabling open data sharing.
+Organized and cleaned raw election data.
+
+Created pivot tables for party and candidate performance.
+
+
+Visualizations:
+
+Dashboard with charts depicting vote shares, top candidates, and party comparisons.
+
+
+
+📂 Project Structure
+
+Telangana Assembly Elections, 2 – Raw election data containing:
+
+Party Name
+
+Candidate Name
+
+Total Votes
+
+Vote Percentage
+
+
+PIVOTS – Pivot tables summarizing:
+
+Party-wise votes
+
+Candidate-wise comparison
+
+
+DASHBOARD – Visualizations showing:
+
+Vote share distribution
+
+Party performance charts
+
+Candidate rankings
+
+
+
+🔍 Insights
+
+Determined the leading parties and candidates in Nalgonda.
+
+Analyzed vote share percentages.
+
+Created an interactive dashboard for quick interpretation.
+
+
+🛠 Tools Used
+
+Microsoft Excel
+
+Pivot Tables
+
+Charts and Dashboards
+
+
+Techniques
+
+Aggregation
+
+Vote percentage calculations
+
+
+
+📊 Sample Visuals
+
+Bar Chart – Party-wise votes
+
+Pie Chart – Vote share by party
+
+Column/Line Charts – Comparative candidate performance
+
+
+🚀 How to Use
+
+1. Open the file: NLG PROJECT.xlsx.
+
+
+2. Review the raw data sheet for details.
+
+
+3. Navigate to PIVOTS for summarized analysis.
+
+
+4. Explore DASHBOARD for visual insights.
