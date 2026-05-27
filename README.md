@@ -60,7 +60,7 @@ Analyzed vote share percentages.
 Created an interactive dashboard for quick interpretation.
 
 
-🛠 Tools Used
+🛠 Tools Used:
 
 Microsoft Excel
 
